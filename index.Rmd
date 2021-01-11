@@ -12,6 +12,10 @@ github-repo: rstudio/docs4class/bookdown
 description: "This is a book designed to support BADM 371 Analytics 1."
 ---
 
+# Before we start...
+
+This is a book designed to support BADM 371 Analytics 1.  It will serve (*I truly hope*) as a living document.  See an opportunity to make something better or clearer or more instructive?  Tell me.
+
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

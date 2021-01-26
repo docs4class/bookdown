@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.2)  12 JAN 2021 14:18
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.14)  26 JAN 2021 07:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **bookdown-demo.tex
 (./bookdown-demo.tex
-LaTeX2e <2020-10-01> patch level 3
-L3 programming layer <2020-12-07> xparse <2020-03-03> (c:/Users/jtturner/AppDat
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users/jtturner/AppDat
 a/Roaming/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
@@ -152,15 +152,20 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 icode-math.sty
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.
 sty
-Package: expl3 2020-12-07 L3 programming layer (loader) 
+Package: expl3 2021-01-09 L3 programming layer (loader) 
 
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3bac
 kend-xetex.def
-File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
-\g__graphics_track_int=\count194
+File: l3backend-xetex.def 2021-01-09 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count194
+\g__color_stack_int=\count195
+\l__kernel_color_stack_int=\count196
+\g__graphics_track_int=\count197
 \l__pdf_internal_box=\box49
-\g__pdf_backend_object_int=\count195
-\g__pdf_backend_annotation_int=\count196
+\g__pdf_backend_object_int=\count198
+\g__pdf_backend_annotation_int=\count199
+\g__pdf_backend_link_int=\count266
 ))
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 
@@ -187,17 +192,17 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 ec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count197
-\l__fontspec_language_int=\count198
-\l__fontspec_strnum_int=\count199
-\l__fontspec_tmp_int=\count266
-\l__fontspec_tmpa_int=\count267
-\l__fontspec_tmpb_int=\count268
-\l__fontspec_tmpc_int=\count269
-\l__fontspec_em_int=\count270
-\l__fontspec_emdef_int=\count271
-\l__fontspec_strong_int=\count272
-\l__fontspec_strongdef_int=\count273
+\l__fontspec_script_int=\count267
+\l__fontspec_language_int=\count268
+\l__fontspec_strnum_int=\count269
+\l__fontspec_tmp_int=\count270
+\l__fontspec_tmpa_int=\count271
+\l__fontspec_tmpb_int=\count272
+\l__fontspec_tmpc_int=\count273
+\l__fontspec_em_int=\count274
+\l__fontspec_emdef_int=\count275
+\l__fontspec_strong_int=\count276
+\l__fontspec_strongdef_int=\count277
 \l__fontspec_tmpa_dim=\dimen148
 \l__fontspec_tmpb_dim=\dimen149
 \l__fontspec_tmpc_dim=\dimen150
@@ -215,9 +220,9 @@ Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\g__um_fam_int=\count274
-\g__um_fonts_used_int=\count275
-\l__um_primecount_int=\count276
+\g__um_fam_int=\count278
+\g__um_fonts_used_int=\count279
+\l__um_primecount_int=\count280
 \g__um_primekern_muskip=\muskip17
 
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/un
@@ -300,8 +305,8 @@ ions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen151
-\Hy@linkcounter=\count277
-\Hy@pagecounter=\count278
+\Hy@linkcounter=\count281
+\Hy@pagecounter=\count282
 
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc
 .def
@@ -315,7 +320,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 cmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count279
+\Hy@SavedSpaceFactor=\count283
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
 
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.
@@ -329,7 +334,7 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count280
+\c@Hy@tempcnt=\count284
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -346,7 +351,7 @@ gintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count281
+\Fld@menulength=\count285
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
 Package hyperref Info: Hyper figures OFF on input line 6347.
@@ -365,9 +370,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count282
-\c@Item=\count283
-\c@Hfootnote=\count284
+\Hy@abspage=\count286
+\c@Item=\count287
+\c@Hfootnote=\count288
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -381,10 +386,10 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box50
-\c@Hy@AnnotLevel=\count285
-\HyField@AnnotCount=\count286
-\Fld@listcount=\count287
-\c@bookmark@seq@number=\count288
+\c@Hy@AnnotLevel=\count289
+\HyField@AnnotCount=\count290
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
 
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/
 rerunfilecheck.sty
@@ -408,11 +413,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyv
 rb.sty
 Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count289
+\FV@CodeLineNo=\count293
 \FV@InFile=\read2
 \FV@TabBox=\box51
-\c@FancyVerbLine=\count290
-\FV@StepNumber=\count291
+\c@FancyVerbLine=\count294
+\FV@StepNumber=\count295
 \FV@OutFile=\write3
 )
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.s
@@ -431,16 +436,16 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip55
 \LTpre=\skip56
 \LTpost=\skip57
-\LTchunksize=\count292
+\LTchunksize=\count296
 \LTcapwidth=\dimen159
 \LT@head=\box52
 \LT@firsthead=\box53
 \LT@foot=\box54
 \LT@lastfoot=\box55
-\LT@cols=\count293
-\LT@rows=\count294
-\c@LT@tables=\count295
-\c@LT@chunks=\count296
+\LT@cols=\count297
+\LT@rows=\count298
+\c@LT@tables=\count299
+\c@LT@chunks=\count300
 \LT@p@ftn=\toks22
 )
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/bookta
@@ -456,18 +461,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen167
 \cmidrulekern=\dimen168
 \defaultaddspace=\dimen169
-\@cmidla=\count297
-\@cmidlb=\count298
+\@cmidla=\count301
+\@cmidlb=\count302
 \@aboverulesep=\dimen170
 \@belowrulesep=\dimen171
-\@thisruleclass=\count299
-\@lastruleclass=\count300
+\@thisruleclass=\count303
+\@lastruleclass=\count304
 \@thisrulewidth=\dimen172
 )
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolb
 ox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count301
+\etb@tempcnta=\count305
 )
 (c:/Users/jtturner/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footno
 te.sty
@@ -522,7 +527,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip61
 \bibsep=\skip62
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count302
+\c@NAT@ctr=\count306
 ) (./bookdown-demo.aux)
 \openout1 = `bookdown-demo.aux'.
 
@@ -827,7 +832,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count303
+\c@section@level=\count307
 )
 LaTeX Info: Redefining \ref on input line 125.
 LaTeX Info: Redefining \pageref on input line 125.
@@ -894,23 +899,23 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 3.
-[3] [4] [5])
+[3])
 \tf@toc=\write5
 \openout5 = `bookdown-demo.toc'.
 
-[6]
+[4]
 Chapter 1.
-[7
+[5
 
-] [8
+] [6
 
 ]
 Chapter 2.
-[9] [10] [11] [12
+[7] [8] [9] [10
 
 ]
 Chapter 3.
-[13]
+[11]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 234.
 
@@ -920,13 +925,13 @@ Underfull \hbox (badness 1152) in paragraph at lines 238--239
 
 
 Overfull \hbox (6.01123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 3.  GET YOUR R ACT TOGETHER & TOOLS O
+\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 3.  GET YOUR R ACT TOGETHER & TOOLS O
 F THE TRADE
  []
 
-[14]
+[12]
 Chapter 4.
-[15
+[13
 
 ]
 Overfull \hbox (17.25pt too wide) in paragraph at lines 363--363
@@ -940,46 +945,46 @@ Overfull \hbox (22.5pt too wide) in paragraph at lines 373--373
 not found[] 
  []
 
-[16]
+[14]
 Overfull \hbox (81.85793pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10 4.1.  BASICS OF WORKING WITH R AT THE COMMAND LINE AND RSTUDIO 
-GOODIES \TU/lmr/m/n/10 17
+GOODIES \TU/lmr/m/n/10 15
  []
 
-[17] [18]
+[15] [16]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 526.
-[19] [20]
+[17] [18]
 File: bookdown-demo_files/figure-latex/toy-line-1.pdf Graphic file (type pdf)
 <use bookdown-demo_files/figure-latex/toy-line-1.pdf>
-[21] [22]
+[19] [20]
 Overfull \hbox (6.47pt too wide) in paragraph at lines 661--663
 []\TU/lmr/m/n/10 Source the entire document – equivalent to entering \TU/lmtt/m
 /n/10 source([]toy-line.r[])
  []
 
-[23] [24]
+[21] [22]
 Chapter 5.
-[25
+[23
 
-] [26] [27] [28] [29] [30] [31] [32
+] [24] [25] [26] [27] [28] [29] [30
 
 ]
 Chapter 6.
-[33] [34
+[31] [32
 
 ]
 Chapter 7.
-[35]
+[33]
 Underfull \hbox (badness 4416) in paragraph at lines 1250--1251
 \TU/lmr/m/n/10 necessary) []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][]
 [][][][] [] [][][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] [] [] []
 
  []
 
-[36]
+[34]
 Chapter 8.
-[37
+[35
 
 ]
 Overfull \hbox (27.75pt too wide) in paragraph at lines 1311--1311
@@ -1023,7 +1028,7 @@ Overfull \hbox (27.75pt too wide) in paragraph at lines 1311--1311
     3    1[] 
  []
 
-[38]
+[36]
 File: bookdown-demo_files/figure-latex/unnamed-chunk-41-1.pdf Graphic file (typ
 e pdf)
 <use bookdown-demo_files/figure-latex/unnamed-chunk-41-1.pdf>
@@ -1038,24 +1043,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 1329--1331
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[39]
+[37]
 File: bookdown-demo_files/figure-latex/unnamed-chunk-43-1.pdf Graphic file (typ
 e pdf)
 <use bookdown-demo_files/figure-latex/unnamed-chunk-43-1.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[40] [41]
+[38] [39]
 File: bookdown-demo_files/figure-latex/unnamed-chunk-44-1.pdf Graphic file (typ
 e pdf)
 <use bookdown-demo_files/figure-latex/unnamed-chunk-44-1.pdf>
-[42]
+[40]
 
-LaTeX Warning: Reference `fig:imperfLinearModel' on page 43 undefined on input 
+LaTeX Warning: Reference `fig:imperfLinearModel' on page 41 undefined on input 
 line 1414.
 
 
-LaTeX Warning: Reference `fig:notGoodAtAllForALinearModel' on page 43 undefined
+LaTeX Warning: Reference `fig:notGoodAtAllForALinearModel' on page 41 undefined
  on input line 1424.
 
 File: bookdown-demo_files/figure-latex/unnamed-chunk-45-1.pdf Graphic file (typ
@@ -1064,21 +1069,21 @@ e pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43]
+[41]
 File: bookdown-demo_files/figure-latex/unnamed-chunk-45-2.pdf Graphic file (typ
 e pdf)
 <use bookdown-demo_files/figure-latex/unnamed-chunk-45-2.pdf>
-[44]
+[42]
 Overfull \hbox (153.75pt too wide) in paragraph at lines 1450--1450
 []\TU/lmtt/m/n/10 Now (?) might be a great time for us to check out this websit
 e: http://guessthecorrelation.com/[] 
  []
 
-[45] [46
+[43] [44
 
 ]
 Chapter 9.
-[47]
+[45]
 Overfull \hbox (636.75pt too wide) in paragraph at lines 1533--1533
 []\TU/lmtt/m/n/10 Let's hang out here for a while.  PLEASE make sure you know w
 hat each of the verbs above mean in your own little awesome language.  We can h
@@ -1087,19 +1092,19 @@ ang out for a while here if need be.  Get this.[]
 
 
 Overfull \hbox (9.02342pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
+YR PACKAGE
+ []
+
+[46]
+Missing character: There is no ⁵ in font [lmroman10-regular]:mapping=tex-text;!
+[47]
+Overfull \hbox (9.02342pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 48 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
 YR PACKAGE
  []
 
-[48]
-Missing character: There is no ⁵ in font [lmroman10-regular]:mapping=tex-text;!
-[49]
-Overfull \hbox (9.02342pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 50 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
-YR PACKAGE
- []
-
-[50] [51]
+[48] [49]
 Underfull \hbox (badness 1342) in paragraph at lines 1767--1801
 \TU/lmr/m/n/10 -16.904263 2 -14.695206 -16.401093 3 -10.395206 -12.640676 4 -6.
 395206
@@ -1156,1157 +1161,38 @@ Overfull \hbox (4592.88412pt too wide) in paragraph at lines 1802--1810
 
 
 Overfull \hbox (9.02342pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 52 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
+\TU/lmr/m/n/10 50 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
 YR PACKAGE
  []
 
-[52]
+[50]
 Underfull \hbox (badness 1406) in paragraph at lines 1814--1825
 []\TU/lmr/m/n/10 Finally, we can compute the mean of o3 and no2 within quintile
 s of
  []
 
-[53]
+[51]
+No file bookdown-demo.bbl.
+
 Overfull \hbox (9.02342pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 54 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
+\TU/lmr/m/n/10 52 \TU/lmr/m/sl/10 CHAPTER 9.  MANAGING DATA FRAMES WITH THE DPL
 YR PACKAGE
  []
 
-[54]
-Chapter 10.
-[55
-
-]
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ##      Year Month DayofMonth DayOfWeek DepTime ArrTime Uniqu
-eCarrier FlightNum[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5424 2011     1          1         6    1400    1500      
-      AA       428[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5425 2011     1          2         7    1401    1501      
-      AA       428[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5426 2011     1          3         1    1352    1502      
-      AA       428[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5427 2011     1          4         2    1403    1513      
-      AA       428[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5428 2011     1          5         3    1405    1507      
-      AA       428[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5429 2011     1          6         4    1359    1503      
-      AA       428[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ##      TailNum ActualElapsedTime AirTime ArrDelay DepDelay O
-rigin Dest Distance[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5424  N576AA                60      40      -10        0  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5425  N557AA                60      45       -9        1  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5426  N541AA                70      48       -8       -8  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5427  N403AA                70      39        3        3  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5428  N492AA                62      44       -3        5  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1979--1979
-[]\TU/lmtt/m/n/10 ## 5429  N262AA                64      45       -7       -1  
-  IAH  DFW      224[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 56 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[56]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2001--2001
-[]\TU/lmtt/m/n/10 ## Call `lifecycle::last_warnings()` to see where this warnin
-g was generated.[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##     Year Month DayofMonth DayOfWeek DepTime ArrTime Unique
-Carrier FlightNum[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##    <int> <int>      <int>     <int>   <int>   <int> <chr> 
-            <int>[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  1  2011     1          1         6    1400    1500 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  2  2011     1          2         7    1401    1501 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  3  2011     1          3         1    1352    1502 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  4  2011     1          4         2    1403    1513 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  5  2011     1          5         3    1405    1507 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  6  2011     1          6         4    1359    1503 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  7  2011     1          7         5    1359    1509 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  8  2011     1          8         6    1355    1454 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ##  9  2011     1          9         7    1443    1554 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ## 10  2011     1         10         1    1443    1553 AA    
-              428[] 
- []
-
-
-Overfull \hbox (22.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ## # ... with 227,486 more rows, and 13 more variables: TailN
-um <chr>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ## #   ActualElapsedTime <int>, AirTime <int>, ArrDelay <int>
-, DepDelay <int>,[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2028--2028
-[]\TU/lmtt/m/n/10 ## #   Origin <chr>, Dest <chr>, Distance <int>, TaxiIn <int>
-, TaxiOut <int>,[] 
- []
-
-[57]
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##     Year Month DayofMonth DayOfWeek DepTime ArrTime Unique
-Carrier FlightNum[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##    <int> <int>      <int>     <int>   <int>   <int> <chr> 
-            <int>[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  1  2011     1          1         6    1400    1500 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  2  2011     1          1         6     728     840 AA    
-              460[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  3  2011     1          1         6    1631    1736 AA    
-             1121[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  4  2011     1          1         6    1756    2112 AA    
-             1294[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  5  2011     1          1         6    1012    1347 AA    
-             1700[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  6  2011     1          1         6    1211    1325 AA    
-             1820[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  7  2011     1          1         6     557     906 AA    
-             1994[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  8  2011     1          1         6    1824    2106 AS    
-              731[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ##  9  2011     1          1         6     654    1124 B6    
-              620[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ## 10  2011     1          1         6    1639    2110 B6    
-              622[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ## # ... with 542 more rows, and 13 more variables: TailNum <
-chr>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ## #   ActualElapsedTime <int>, AirTime <int>, ArrDelay <int>
-, DepDelay <int>,[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2098--2098
-[]\TU/lmtt/m/n/10 ## #   Origin <chr>, Dest <chr>, Distance <int>, TaxiIn <int>
-, TaxiOut <int>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##     Year Month DayofMonth DayOfWeek DepTime ArrTime Unique
-Carrier FlightNum[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##    <int> <int>      <int>     <int>   <int>   <int> <chr> 
-            <int>[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  1  2011     1          1         6    1400    1500 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  2  2011     1          2         7    1401    1501 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  3  2011     1          3         1    1352    1502 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  4  2011     1          4         2    1403    1513 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  5  2011     1          5         3    1405    1507 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  6  2011     1          6         4    1359    1503 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  7  2011     1          7         5    1359    1509 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  8  2011     1          8         6    1355    1454 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ##  9  2011     1          9         7    1443    1554 AA    
-              428[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ## 10  2011     1         10         1    1443    1553 AA    
-              428[] 
- []
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ## # ... with 5,306 more rows, and 13 more variables: TailNum
- <chr>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ## #   ActualElapsedTime <int>, AirTime <int>, ArrDelay <int>
-, DepDelay <int>,[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 58 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[58]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2125--2125
-[]\TU/lmtt/m/n/10 ## #   Origin <chr>, Dest <chr>, Distance <int>, TaxiIn <int>
-, TaxiOut <int>,[] 
- []
-
-[59]
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 60 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[60] [61]
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 62 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[62]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2403--2403
-[]\TU/lmtt/m/n/10 ## `summarise()` ungrouping output (override with `.groups` a
-rgument)[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2444--2444
-[]\TU/lmtt/m/n/10 ## Call `lifecycle::last_warnings()` to see where this warnin
-g was generated.[] 
- []
-
-[63]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2460--2460
-[]\TU/lmtt/m/n/10 ## Call `lifecycle::last_warnings()` to see where this warnin
-g was generated.[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##    UniqueCarrier ArrDelay_min DepDelay_min ArrDelay_max De
-pDelay_max[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##    <chr>                <int>        <int>        <int>   
-     <int>[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  1 AA                     -39          -15          978   
-       970[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  2 AS                     -43          -15          183   
-       172[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  3 B6                     -44          -14          335   
-       310[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  4 CO                     -55          -18          957   
-       981[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  5 DL                     -32          -17          701   
-       730[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  6 EV                     -40          -18          469   
-       479[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  7 F9                     -24          -15          277   
-       275[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  8 FL                     -30          -14          500   
-       507[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ##  9 MQ                     -38          -23          918   
-       931[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 10 OO                     -57          -33          380   
-       360[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 11 UA                     -47          -11          861   
-       869[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 12 US                     -42          -17          433   
-       425[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 13 WN                     -44          -10          499   
-       548[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 64 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[64]
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 14 XE                     -70          -19          634   
-       628[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2511--2511
-[]\TU/lmtt/m/n/10 ## 15 YV                     -32          -11           72   
-        54[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 2533--2533
-[]\TU/lmtt/m/n/10 ## `summarise()` regrouping output by 'Month' (override with 
-`.groups` argument)[] 
- []
-
-[65]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2591--2591
-[]\TU/lmtt/m/n/10 ## `summarise()` ungrouping output (override with `.groups` a
-rgument)[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 66 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[66] [67]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2724--2724
-[]\TU/lmtt/m/n/10 ## `summarise()` ungrouping output (override with `.groups` a
-rgument)[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 68 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[68]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ##    Year Month DayofMonth DayOfWeek DepTime ArrTime UniqueC
-arrier FlightNum[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ##   <int> <int>      <int>     <int>   <int>   <int> <chr>  
-           <int>[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## 1  2011     2         19         6     718     821 CO     
-             128[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## 2  2011     1         11         2     846    1114 UA     
-             104[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## 3  2011     8          5         5     729     822 WN     
-               6[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## 4  2011    10          4         2     702    1007 DL     
-             810[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## 5  2011     6         20         1    1328    1648 CO     
-            1548[] 
- []
-
-
-Overfull \hbox (33.0pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## # ... with 14 more variables: TailNum <chr>, ActualElapsed
-Time <int>,[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## #   AirTime <int>, ArrDelay <int>, DepDelay <int>, Origin 
-<chr>, Dest <chr>,[] 
- []
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2795--2795
-[]\TU/lmtt/m/n/10 ## #   Distance <int>, TaxiIn <int>, TaxiOut <int>, Cancelled
- <int>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##     Year Month DayofMonth DayOfWeek DepTime ArrTime Unique
-Carrier FlightNum[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##    <int> <int>      <int>     <int>   <int>   <int> <chr> 
-            <int>[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  1  2011     6         13         1    1905    2012 MQ    
-             2870[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  2  2011    12         29         4    1726    1817 WN    
-               46[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  3  2011     4          3         7    1617    1729 XE    
-             2936[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  4  2011    11          3         4    1550    1851 DL    
-                8[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  5  2011     9         29         4    1841    2021 CO    
-             1741[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  6  2011     3         19         6     930    1151 OO    
-             5825[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  7  2011    10          3         1    1858    2321 CO    
-             1476[] 
- []
-
-[69]
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  8  2011     9         13         2    1719    1817 WN    
-              492[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ##  9  2011     2         14         1    1437    1601 CO    
-              697[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ## 10  2011     4         21         4    1635    1745 XE    
-             2128[] 
- []
-
-
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ## # ... with 56,864 more rows, and 14 more variables: TailNu
-m <chr>,[] 
- []
-
-
-Overfull \hbox (64.5pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ## #   ActualElapsedTime <int>, AirTime <int>, ArrDelay <int>
-, DepDelay <int>,[] 
- []
-
-
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ## #   Origin <chr>, Dest <chr>, Distance <int>, TaxiIn <int>
-, TaxiOut <int>,[] 
- []
-
-
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2822--2822
-[]\TU/lmtt/m/n/10 ## #   Cancelled <int>, CancellationCode <chr>, Diverted <int
->, Speed <dbl>[] 
- []
-
-
-Overfull \hbox (143.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ Year             : int [1:227496] 2011 2011 2011 2011 2
-011 2011 2011 2011 2011 2011 ...[] 
- []
-
-
-Overfull \hbox (143.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ DepTime          : int [1:227496] 1400 1401 1352 1403 1
-405 1359 1359 1355 1443 1443 ...[] 
- []
-
-
-Overfull \hbox (143.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ ArrTime          : int [1:227496] 1500 1501 1502 1513 1
-507 1503 1509 1454 1554 1553 ...[] 
- []
-
-
-Overfull \hbox (90.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ FlightNum        : int [1:227496] 428 428 428 428 428 4
-28 428 428 428 428 ...[] 
- []
-
-
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ TailNum          : chr [1:227496] "N576AA" "N557AA" "N5
-41AA" "N403AA" ...[] 
- []
-
-
-Overfull \hbox (38.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ ActualElapsedTime: int [1:227496] 60 60 70 70 62 64 70 
-59 71 70 ...[] 
- []
-
-
-Overfull \hbox (38.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ AirTime          : int [1:227496] 40 45 48 39 44 45 43 
-40 41 45 ...[] 
- []
-
-
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ ArrDelay         : int [1:227496] -10 -9 -8 3 -3 -7 -1 
--16 44 43 ...[] 
- []
-
-
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ DepDelay         : int [1:227496] 0 1 -8 3 5 -1 -1 -5 4
-3 43 ...[] 
- []
-
-
-Overfull \hbox (6.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ Origin           : chr [1:227496] "IAH" "IAH" "IAH" "IA
-H" ...[] 
- []
-
-
-Overfull \hbox (6.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ Dest             : chr [1:227496] "DFW" "DFW" "DFW" "DF
-W" ...[] 
- []
-
-
-Overfull \hbox (90.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ Distance         : int [1:227496] 224 224 224 224 224 2
-24 224 224 224 224 ...[] 
- []
-
-
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2855--2855
-[]\TU/lmtt/m/n/10 ##  $ TaxiOut          : int [1:227496] 13 9 17 22 9 13 15 12
- 22 19 ...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Year              <int> 2011, 2011, 2011, 2011, 2011, 20
-11, 2011, 2011, 2...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Month             <int> 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
- 1, 1, 1, 1, 1, 1...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ DayofMonth        <int> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1
-1, 12, 13, 14, 15...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ DayOfWeek         <int> 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2,
- 3, 4, 5, 6, 7, 1...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ DepTime           <int> 1400, 1401, 1352, 1403, 1405, 13
-59, 1359, 1355, 1...[] 
- []
-
-
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 70 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[70]
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ ArrTime           <int> 1500, 1501, 1502, 1513, 1507, 15
-03, 1509, 1454, 1...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ UniqueCarrier     <chr> "AA", "AA", "AA", "AA", "AA", "A
-A", "AA", "AA", "...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ FlightNum         <int> 428, 428, 428, 428, 428, 428, 42
-8, 428, 428, 428,...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ TailNum           <chr> "N576AA", "N557AA", "N541AA", "N
-403AA", "N492AA",...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ ActualElapsedTime <int> 60, 60, 70, 70, 62, 64, 70, 59, 
-71, 70, 70, 56, 6...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ AirTime           <int> 40, 45, 48, 39, 44, 45, 43, 40, 
-41, 45, 42, 41, 4...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ ArrDelay          <int> -10, -9, -8, 3, -3, -7, -1, -16,
- 44, 43, 29, 5, -...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ DepDelay          <int> 0, 1, -8, 3, 5, -1, -1, -5, 43, 
-43, 29, 19, -2, -...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Origin            <chr> "IAH", "IAH", "IAH", "IAH", "IAH
-", "IAH", "IAH", ...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Dest              <chr> "DFW", "DFW", "DFW", "DFW", "DFW
-", "DFW", "DFW", ...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Distance          <int> 224, 224, 224, 224, 224, 224, 22
-4, 224, 224, 224,...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ TaxiIn            <int> 7, 6, 5, 9, 9, 6, 12, 7, 8, 6, 8
-, 4, 6, 5, 6, 12,...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ TaxiOut           <int> 13, 9, 17, 22, 9, 13, 15, 12, 22
-, 19, 20, 11, 13,...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Cancelled         <int> 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
- 0, 0, 0, 0, 0, 0...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ CancellationCode  <chr> "", "", "", "", "", "", "", "", 
-"", "", "", "", "...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Diverted          <int> 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
- 0, 0, 0, 0, 0, 0...[] 
- []
-
-
-Overfull \hbox (80.25pt too wide) in paragraph at lines 2889--2889
-[]\TU/lmtt/m/n/10 ## $ Speed             <dbl> 336.0000, 298.6667, 280.0000, 34
-4.6154, 305.4545,...[] 
- []
-
-[71]
-Overfull \hbox (79.34123pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 72 \TU/lmr/m/sl/10 CHAPTER 10.  INTRODUCTION TO DPLYR FOR FASTER
- DATA MANIPULATION IN R”
- []
-
-[72
-
-]
-Chapter 11.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[73] [74]
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  Min.   :0.0000   Min.   :220.0   Min.   :2.260   Min.   :
-1.000[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  1st Qu.:0.0000   1st Qu.:520.0   1st Qu.:3.130   1st Qu.:
-2.000[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  Median :0.0000   Median :580.0   Median :3.395   Median :
-2.000[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  Mean   :0.3175   Mean   :587.7   Mean   :3.390   Mean   :
-2.485[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  3rd Qu.:1.0000   3rd Qu.:660.0   3rd Qu.:3.670   3rd Qu.:
-3.000[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2971--2971
-[]\TU/lmtt/m/n/10 ##  Max.   :1.0000   Max.   :800.0   Max.   :4.000   Max.   :
-4.000[] 
- []
-
-
-Overfull \hbox (500.25pt too wide) in paragraph at lines 3007--3007
-[]\TU/lmtt/m/n/10 Probit regression. Probit analysis will produce results simil
-ar logistic regression. The choice of probit versus logit depends largely on in
-dividual preferences.[] 
- []
-
-
-Overfull \hbox (2322.0pt too wide) in paragraph at lines 3007--3007
-[]\TU/lmtt/m/n/10 OLS regression. When used with a binary response variable, th
-is model is known as a linear probability model and can be used as a way to des
-cribe conditional probabilities. However, the errors (i.e., residuals) from the
- linear probability model violate the homoskedasticity and normality of errors 
-assumptions of OLS regression, resulting in invalid standard errors and hypothe
-sis tests. For a more thorough discussion of these and other problems with the 
-linear probability model, see Long (1997, p. 38-40).[] 
- []
-
-
-Overfull \hbox (169.5pt too wide) in paragraph at lines 3007--3007
-[]\TU/lmtt/m/n/10 Two-group discriminant function analysis. A multivariate meth
-od for dichotomous outcome variables.[] 
- []
-
-
-Overfull \hbox (1492.5pt too wide) in paragraph at lines 3007--3007
-[]\TU/lmtt/m/n/10 Hotelling’s T2. The 0/1 outcome is turned into the grouping v
-ariable, and the former predictors are turned into outcome variables. This will
- produce an overall test of significance but will not give individual coefficie
-nts for each variable, and it is unclear the extent to which each "predictor" i
-s adjusted for the impact of the other "predictors."[] 
- []
-
-[75]
-Overfull \hbox (379.5pt too wide) in paragraph at lines 3067--3067
-[]\TU/lmtt/m/n/10 In the output above, the first thing we see is the call, this
- is R reminding us what the model we ran was, what options we specified, etc.[]
- 
- []
-
-
-Overfull \hbox (1035.75pt too wide) in paragraph at lines 3067--3067
-[]\TU/lmtt/m/n/10 Next we see the deviance residuals, which are a measure of mo
-del fit. This part of output shows the distribution of the deviance residuals f
-or individual cases used in the model. Below we discuss how to use summaries of
- the deviance statistic to assess model fit.[] 
- []
-
-
-Overfull \hbox (1618.5pt too wide) in paragraph at lines 3067--3067
-[]\TU/lmtt/m/n/10 The next part of the output shows the coefficients, their sta
-ndard errors, the z-statistic (sometimes called a Wald z-statistic), and the as
-sociated p-values. Both gre and gpa are statistically significant, as are the t
-hree terms for rank. The logistic regression coefficients give the change in th
-e log odds of the outcome for a one unit increase in the predictor variable.[] 
-
- []
-
-
-Overfull \hbox (211.5pt too wide) in paragraph at lines 3067--3067
-[]    \TU/lmtt/m/n/10 For every one unit change in gre, the log odds of admissi
-on (versus non-admission) increases by 0.002.[] 
- []
-
-
-Overfull \hbox (206.25pt too wide) in paragraph at lines 3067--3067
-[]    \TU/lmtt/m/n/10 For a one unit increase in gpa, the log odds of being adm
-itted to graduate school increases by 0.804.[] 
- []
-
-
-Overfull \hbox (899.25pt too wide) in paragraph at lines 3067--3067
-[]    \TU/lmtt/m/n/10 The indicator variables for rank have a slightly differen
-t interpretation. For example, having attended an undergraduate institution wit
-h rank of 2, versus an institution with a rank of 1, changes the log odds of ad
-mission by -0.675.[] 
- []
-
-
-Overfull \hbox (631.5pt too wide) in paragraph at lines 3067--3067
-[]\TU/lmtt/m/n/10 Below the table of coefficients are fit indices, including th
-e null and deviance residuals and the AIC. Later we show an example of how you 
-can use these values to help assess model fit.[] 
- []
-
-[76]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[77] [78] [79] [80] [81]
-Underfull \vbox (badness 5388) has occurred while \output is active []
-
-[82]
-Overfull \hbox (42.43124pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 11.52.  GRE GPA RANK FIT SE.FIT RESIDUAL.SCALE UL LL PREDICTEDP
-ROB \TU/lmr/m/n/10 83
- []
-
-[83]
-Overfull \hbox (962.25pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 Empty cells or small cells: You should check for empty or sma
-ll cells by doing a crosstab between categorical predictors and the outcome var
-iable. If a cell has very few cases (a small cell), the model may become unstab
-le or it might not run at all.[] 
- []
-
-
-Overfull \hbox (1392.75pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 Separation or quasi-separation (also called perfect predictio
-n), a condition in which the outcome does not vary at some levels of the indepe
-ndent variables. See our page FAQ: What is complete or quasi-complete separatio
-n in logistic/probit regression and how do we deal with them? for information o
-n models with perfect prediction.[] 
- []
-
-
-Overfull \hbox (1938.75pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 Sample size: Both logit and probit models require more cases 
-than OLS regression because they use maximum likelihood estimation techniques. 
-It is sometimes possible to estimate models for binary outcomes in datasets wit
-h only a small number of cases using exact logistic regression. It is also impo
-rtant to keep in mind that when the outcome is rare, even if the overall datase
-t is large, it can be difficult to estimate a logit model.[] 
- []
-
-
-Overfull \hbox (1639.5pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 Pseudo-R-squared: Many different measures of psuedo-R-squared
- exist. They all attempt to provide information similar to that provided by R-s
-quared in OLS regression; however, none of them can be interpreted exactly as R
--squared in OLS regression is interpreted. For a discussion of various pseudo-R
--squareds see Long and Freese (2006) or our FAQ page What are pseudo R-squareds
-?[] 
- []
-
-
-Overfull \hbox (1245.75pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 Diagnostics: The diagnostics for logistic regression are diff
-erent from those for OLS regression. For a discussion of model diagnostics for 
-logistic regression, see Hosmer and Lemeshow (2000, Chapter 5). Note that diagn
-ostics done for logistic regression are similar to those done for probit regres
-sion.[] 
- []
-
-[84]
-Overfull \hbox (33.0pt too wide) in paragraph at lines 3357--3357
-[]\TU/lmtt/m/n/10 Stat Books for Loan, Logistic Regression and Limited Dependen
-t Variables[] 
- []
-
-
-Overfull \hbox (38.25pt too wide) in paragraph at lines 3357--3357
-[]\TU/lmtt/m/n/10 Everitt, B. S. and Hothorn, T. A Handbook of Statistical Anal
-yses Using R[] 
- []
-
-No file bookdown-demo.bbl.
-[85] (./bookdown-demo.aux)
+[52] (./bookdown-demo.aux)
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `bookdown-demo.out' has not changed.
-(rerunfilecheck)             Checksum: 53D1AD7E741DFCF1345F5238659DD88B;19470.
+(rerunfilecheck)             Checksum: 2F118E49CF14A2A4942F41691C32230D;5139.
  ) 
 Here is how much of TeX's memory you used:
- 17279 strings out of 479218
- 305587 string characters out of 5873131
- 788846 words of memory out of 5000000
- 36597 multiletter control sequences out of 15000+600000
- 409921 words of font info for 85 fonts, out of 8000000 for 9000
+ 17202 strings out of 479212
+ 303149 string characters out of 5873009
+ 773514 words of memory out of 5000000
+ 36529 multiletter control sequences out of 15000+600000
+ 409913 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,6n,118p,1665b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1665b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bookdown-demo.pdf (85 pages).
+Output written on bookdown-demo.pdf (52 pages).
